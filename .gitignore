@@ -1,0 +1,21 @@
+# Audio (do not redistribute licensed music)
+*.wav
+*.mp3
+*.flac
+*.m4a
+# MATLAB
+*.asv
+*.autosave
+*.mat
+slprj/
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.bbl
+*.blg
+# OS / editor
+.DS_Store
+Thumbs.db

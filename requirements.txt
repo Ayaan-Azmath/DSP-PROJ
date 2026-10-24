@@ -1,0 +1,4 @@
+# Software requirements (MATLAB project, no pip packages)
+MATLAB R2019a or later
+Signal Processing Toolbox   # stft, istft, hann
+# Optional: LaTeX distribution or Overleaf account to compile paper/main.tex
