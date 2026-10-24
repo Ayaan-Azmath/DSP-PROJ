@@ -1,0 +1,13 @@
+# Audio (do not redistribute licensed music)
+*.wav
+*.mp3
+*.flac
+*.m4a
+# MATLAB
+*.asv
+*.autosave
+*.mat
+slprj/
+# OS / editor
+.DS_Store
+Thumbs.db
